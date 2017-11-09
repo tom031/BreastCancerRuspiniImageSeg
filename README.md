@@ -1,5 +1,5 @@
 # BreastCancerRuspiniImageSeg
-Small Experiment on Different datasets: 1.1 Wisconsin Breast Cancer ; Ruspini ; Image Segmentation data 
+Small Experiment on Different datasets: Wisconsin Breast Cancer ; Ruspini ; Image Segmentation data 
 
 Breast Cancer Wisconsin (Original) Data Set https://archive.ics.uci.edu/ml/datasets/breast+cancer+wisconsin+(original)
 
