@@ -18,3 +18,6 @@ names(testingData) <- unname(unlist(testDataHeaders[1,]))
 head(testingData)
 str(testingData)
 
+summary(testingData)
+summary(trainingData)
+

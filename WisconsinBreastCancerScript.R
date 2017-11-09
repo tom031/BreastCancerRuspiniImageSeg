@@ -1,4 +1,5 @@
 WBCdata = read.csv(c("https://archive.ics.uci.edu/ml/machine-learning-databases/breast-cancer-wisconsin/breast-cancer-wisconsin.data"), header = FALSE)
+
 head(WBCdata)
 str(WBCdata)
 #write.csv(datWBC,file="WBC.csv")
