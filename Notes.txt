@@ -1,0 +1,4 @@
+Dataset 1:  https://archive.ics.uci.edu/ml/machine-learning-databases/breast-cancer-wisconsin/breast-cancer-wisconsin.data
+Dataset 2: http://www.unc.edu/~rls/s754/data/ruspini.txt 
+http://www.unc.edu/~rls/s754/s754.html
+Dataset 3: http://archive.ics.uci.edu/ml/machine-learning-databases/image/ 
